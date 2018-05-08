@@ -1,6 +1,8 @@
 # docker-alpine-oraclejdk8
 This image is based on Alpine Linux image, which is only a 5MB image, and contains
-[OracleJDK 8](http://www.oracle.com/technetwork/java/javase/overview/index.html).
+* Alpine 3.7
+
+* [OracleJDK 8](http://www.oracle.com/technetwork/java/javase/overview/index.html).
 
 You must accept the
 [Oracle Binary Code License Agreement for Java SE](http://www.oracle.com/technetwork/java/javase/terms/license/index.html)
